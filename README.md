@@ -1,7 +1,7 @@
 <h1 align="center"> Devlinks </h1>
 
 <p align="center">
-Programa de agregador de links 
+Devlinks um programa pensado na auto-estima
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Programa de agregador de links
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="calendario da copa" src=".github/Capturar.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Nutri Online é um agregador de links feito para voce ter um cartao de visitas de nutrucionista
+O DevLinks é um agregador de links para usar como cartao de visitas online
 
 ## 🔖 Layout
 
@@ -44,4 +44,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Matheus Santanna
+# Projeto
 # Projeto
