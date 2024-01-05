@@ -1,4 +1,4 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
 Primeiro programa desenvolvido
